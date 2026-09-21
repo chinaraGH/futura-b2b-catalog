@@ -150,3 +150,23 @@ as $$
   order by p.embedding <=> query_embedding
   limit match_count;
 $$;
+
+-- ============================================================
+-- 8. Лиды с лендинга (заявки через веб-форму)
+-- ============================================================
+create table if not exists leads (
+  id          bigserial primary key,
+  name        text not null,
+  email       text not null,
+  phone       text,
+  service     text,                             -- выбранный продукт / категория
+  intent      text,                             -- 'Sample Kit' | 'Get a Quote' | …
+  message     text,
+  source      text not null default 'landing',  -- 'landing' | 'chatbot' | …
+  status      text not null default 'new',      -- 'new' | 'in_progress' | 'closed'
+  created_at  timestamptz default now()
+);
+
+-- Индекс для быстрой фильтрации по статусу/источнику в дашборде
+create index if not exists leads_status_source_idx
+  on leads (status, source, created_at desc);

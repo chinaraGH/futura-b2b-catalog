@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef } from "react";
+import ChatWidget from "@/components/ChatWidget";
 import Image from "next/image";
 import {
   ChevronRight,
@@ -244,7 +245,7 @@ export default function Home() {
     setEstResult({ area, panels });
   };
 
-// ── Render ───────────────────────────────────────────────────────────────
+  // ── Render ───────────────────────────────────────────────────────────────
 
   return (
     <main className="min-h-screen bg-slate-900 flex flex-col items-center">
@@ -253,7 +254,7 @@ export default function Home() {
       ══════════════════════════════════════════════════════════ */}
       <header className="fixed top-0 left-0 right-0 z-50 bg-slate-900/80 backdrop-blur-md border-b border-white/10">
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-          <div className="text-2xl font-black text-white tracking-tighter cursor-pointer" onClick={() => window.scrollTo(0,0)}>
+          <div className="text-2xl font-black text-white tracking-tighter cursor-pointer" onClick={() => window.scrollTo(0, 0)}>
             FUTURA<span className="text-brand-500">.</span>
           </div>
           <nav className="hidden md:flex gap-8 text-sm font-medium text-gray-300">
@@ -311,38 +312,38 @@ export default function Home() {
             </div>
           </div>
 
-{/* ── Right: panel render (23%) ─────────────────────────── */}
-<div className="md:col-span-3 relative flex items-center justify-center bg-transparent mt-8 md:mt-0 overflow-visible">
-  <Image
-    src="/hero-panels.png"
-    alt="Corrugated metal, ACM, and HPL architectural facade panels"
-    width={600}
-    height={600}
-    priority
-    className="w-full h-auto max-h-[60vh] object-contain select-none bg-transparent scale-125 lg:scale-140 transform-gpu origin-center"
-    draggable={false}
-  />
-</div>
+          {/* ── Right: panel render (23%) ─────────────────────────── */}
+          <div className="md:col-span-3 relative flex items-center justify-center bg-transparent mt-8 md:mt-0 overflow-visible">
+            <Image
+              src="/hero-panels.png"
+              alt="Corrugated metal, ACM, and HPL architectural facade panels"
+              width={600}
+              height={600}
+              priority
+              className="w-full h-auto max-h-[60vh] object-contain select-none bg-transparent scale-125 lg:scale-140 transform-gpu origin-center"
+              draggable={false}
+            />
+          </div>
         </div>
 
-{/* ── Trust stat bar ─────────────────────────────────────── */}
-<div className="border-t border-white/10 bg-white/5 backdrop-blur-sm">
-  <div className="max-w-6xl mx-auto px-3 py-2 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
-    {[
-      { value: "500+", label: "Projects Delivered" },
-      { value: "30+", label: "Countries Served" },
-      { value: "15 Yr", label: "Warranty Coverage" },
-      { value: "24h", label: "Quote Turnaround" },
-    ].map((stat) => (
-      <div key={stat.label}>
-        <div className="text-2xl md:text-3xl font-bold text-brand-400">
-          {stat.value}
+        {/* ── Trust stat bar ─────────────────────────────────────── */}
+        <div className="border-t border-white/10 bg-white/5 backdrop-blur-sm">
+          <div className="max-w-6xl mx-auto px-3 py-2 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+            {[
+              { value: "500+", label: "Projects Delivered" },
+              { value: "30+", label: "Countries Served" },
+              { value: "15 Yr", label: "Warranty Coverage" },
+              { value: "24h", label: "Quote Turnaround" },
+            ].map((stat) => (
+              <div key={stat.label}>
+                <div className="text-2xl md:text-3xl font-bold text-brand-400">
+                  {stat.value}
+                </div>
+                <div className="text-[12px] sm:text-[13px] text-[#9CA3AF] mt-1">{stat.label}</div>
+              </div>
+            ))}
+          </div>
         </div>
-        <div className="text-[12px] sm:text-[13px] text-[#9CA3AF] mt-1">{stat.label}</div>
-      </div>
-    ))}
-  </div>
-</div>
         {/* ── Marquee & Certificates ─────────────────────────────── */}
         <div className="border-t border-white/10 bg-slate-900 overflow-hidden py-2.5">
           <div className="max-w-6xl mx-auto px-5 flex flex-col md:flex-row items-center gap-5">
@@ -444,11 +445,10 @@ export default function Home() {
                   role="tab"
                   aria-selected={activeFilter === tab.id}
                   onClick={() => setActiveFilter(tab.id)}
-                  className={`px-5 py-2 rounded-md text-sm font-medium transition-colors ${
-                    activeFilter === tab.id
-                      ? "bg-brand-600 text-white shadow-sm"
-                      : "text-gray-600 hover:text-gray-900"
-                  }`}
+                  className={`px-5 py-2 rounded-md text-sm font-medium transition-colors ${activeFilter === tab.id
+                    ? "bg-brand-600 text-white shadow-sm"
+                    : "text-gray-600 hover:text-gray-900"
+                    }`}
                 >
                   {tab.label}
                 </button>
@@ -510,7 +510,7 @@ export default function Home() {
               See how Futura panels perform in real-world high-rise, commercial, and cultural projects across the globe.
             </p>
           </div>
-          
+
           <div className="grid md:grid-cols-3 gap-6">
             {[
               { num: 1, title: 'Nexus Mixed-Use Tower', date: 'Completed 2025' },
@@ -518,11 +518,11 @@ export default function Home() {
               { num: 3, title: 'Lumina Cultural Center', date: 'Completed 2023' }
             ].map(project => (
               <div key={project.num} className="rounded-2xl overflow-hidden aspect-[4/5] relative group cursor-pointer border border-white/10">
-                <Image 
-                  src={`/gallery-${project.num}.jpg`} 
-                  fill 
-                  className="object-cover transition-transform duration-700 group-hover:scale-105" 
-                  alt={project.title} 
+                <Image
+                  src={`/gallery-${project.num}.jpg`}
+                  fill
+                  className="object-cover transition-transform duration-700 group-hover:scale-105"
+                  alt={project.title}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-80" />
                 <div className="absolute bottom-0 left-0 right-0 p-6 translate-y-2 group-hover:translate-y-0 transition-transform">
@@ -901,11 +901,10 @@ export default function Home() {
                         onClick={() =>
                           setFormData((prev) => ({ ...prev, intent }))
                         }
-                        className={`px-4 py-2 rounded-full text-sm font-medium border transition-colors ${
-                          formData.intent === intent
-                            ? "bg-brand-600 text-white border-brand-600"
-                            : "border-gray-300 text-gray-600 hover:border-brand-500 hover:text-brand-600"
-                        }`}
+                        className={`px-4 py-2 rounded-full text-sm font-medium border transition-colors ${formData.intent === intent
+                          ? "bg-brand-600 text-white border-brand-600"
+                          : "border-gray-300 text-gray-600 hover:border-brand-500 hover:text-brand-600"
+                          }`}
                       >
                         {intent}
                       </button>
@@ -1019,11 +1018,10 @@ export default function Home() {
                 {submitStatus.type && (
                   <div
                     role="alert"
-                    className={`p-4 rounded-md text-sm ${
-                      submitStatus.type === "success"
-                        ? "bg-green-50 text-green-800 border border-green-200"
-                        : "bg-red-50 text-red-800 border border-red-200"
-                    }`}
+                    className={`p-4 rounded-md text-sm ${submitStatus.type === "success"
+                      ? "bg-green-50 text-green-800 border border-green-200"
+                      : "bg-red-50 text-red-800 border border-red-200"
+                      }`}
                   >
                     {submitStatus.message}
                   </div>
@@ -1081,6 +1079,9 @@ export default function Home() {
           </div>
         </div>
       </footer>
+
+      {/* ── Chat Widget ──────────────────────────────────────────────── */}
+      <ChatWidget />
     </main>
   );
 }
