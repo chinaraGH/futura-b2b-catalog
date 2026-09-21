@@ -1,0 +1,990 @@
+[
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Standard Corrugated Facade Sheet",
+    "артикул": "DM-45",
+    "описание/спецификации": {
+      "Sheet Thickness": "0,7 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Wave Pitch": "18 mm",
+      "Wave Height": "4,5 mm",
+      "Finish / Coating": "PVDF Alucoat, Silver-Grey",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Deep Profile Corrugated Metal Sheet",
+    "артикул": "DM-46",
+    "описание/спецификации": {
+      "Sheet Thickness": "1,0 mm",
+      "Alloy / Composition": "AlMg1 (EN AW-5005)",
+      "Wave Pitch": "32 mm",
+      "Wave Height": "9,0 mm",
+      "Finish / Coating": "Polyester RAL 7016, anthracite grey",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Stainless Steel Corrugated Sheet",
+    "артикул": "DM-47",
+    "описание/спецификации": {
+      "Sheet Thickness": "0,8 mm",
+      "Alloy / Composition": "AISI 316L (Stainless steel)",
+      "Wave Pitch": "22 mm",
+      "Wave Height": "6,0 mm",
+      "Surface Finish": "Brushed (Finish No. 4)",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Galvanized Corrugated Sheet",
+    "артикул": "DM-48",
+    "описание/спецификации": {
+      "Sheet Thickness": "0,55 mm",
+      "Alloy / Composition": "S350GD+Z275 (EN 10346)",
+      "Wave Pitch": "25 mm",
+      "Wave Height": "7,0 mm",
+      "Finish / Coating": "Hot-dip galvanizing Z275 g/m²",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Corten Weathering Steel Corrugated Sheet",
+    "артикул": "DM-49",
+    "описание/спецификации": {
+      "Sheet Thickness": "1,5 mm",
+      "Alloy / Composition": "S355J2WP (EN 10025-5, COR-TEN)",
+      "Wave Pitch": "40 mm",
+      "Wave Height": "12,0 mm",
+      "Surface Finish": "Natural patina, rusty brown",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Standard Expanded Metal Sheet",
+    "артикул": "XP-45",
+    "описание/спецификации": {
+      "Strand Thickness": "1,0 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Mesh SWM × LWM": "10 × 20 mm",
+      "Strand Width": "1,5 mm",
+      "Open Area": "≈ 56 %",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Flattened Expanded Metal Sheet",
+    "артикул": "XP-46",
+    "описание/спецификации": {
+      "Strand Thickness": "1,5 mm",
+      "Alloy / Composition": "AlMn1 (EN AW-3003)",
+      "Mesh SWM × LWM": "15 × 30 mm",
+      "Strand Width": "2,0 mm",
+      "Open Area": "≈ 50 %",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Large Mesh Expanded Metal Panel",
+    "артикул": "XP-47",
+    "описание/спецификации": {
+      "Strand Thickness": "2,0 mm",
+      "Alloy / Composition": "S235JR (Black steel)",
+      "Mesh SWM × LWM": "30 × 60 mm",
+      "Strand Width": "3,0 mm",
+      "Open Area": "≈ 72 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Stainless Steel Expanded Metal Sheet",
+    "артикул": "XP-48",
+    "описание/спецификации": {
+      "Strand Thickness": "1,0 mm",
+      "Alloy / Composition": "AISI 304 (EN 1.4301)",
+      "Mesh SWM × LWM": "8 × 16 mm",
+      "Strand Width": "1,2 mm",
+      "Open Area": "≈ 48 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Powder Coated Expanded Metal Sheet",
+    "артикул": "XP-49",
+    "описание/спецификации": {
+      "Strand Thickness": "1,5 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Mesh SWM × LWM": "20 × 40 mm",
+      "Strand Width": "2,5 mm",
+      "Finish / Coating": "Polyester RAL 9005, Matte Black",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Architectural Woven Wire Mesh",
+    "артикул": "MS-45",
+    "описание/спецификации": {
+      "Wire Diameter": "1,0 mm",
+      "Composition": "AISI 316L Stainless steel",
+      "Mesh Pitch": "4 × 4 mm",
+      "Weave Type": "Square (Plain weave)",
+      "Open Area": "≈ 36 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Large Mesh Woven Wire",
+    "артикул": "MS-46",
+    "описание/спецификации": {
+      "Wire Diameter": "2,0 mm",
+      "Composition": "AISI 304 Stainless steel",
+      "Mesh Pitch": "10 × 10 mm",
+      "Weave Type": "Square (Plain weave)",
+      "Open Area": "≈ 64 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Spiral Crimp Mesh (Spiral Crimp)",
+    "артикул": "MS-47",
+    "описание/спецификации": {
+      "Wire Diameter": "3,0 mm",
+      "Composition": "AISI 316 Stainless steel",
+      "Mesh Pitch": "20 × 20 mm",
+      "Weave Type": "Crimp (reinforced crimp)",
+      "Open Area": "≈ 50 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Tensile Architectural Cable Mesh",
+    "артикул": "MS-48",
+    "описание/спецификации": {
+      "Wire Diameter": "1.5 mm (cable 7×7)",
+      "Composition": "AISI 316 Stainless steel",
+      "Mesh Pitch": "50 × 50 mm",
+      "Weave Type": "Cable mesh, rhombus",
+      "Open Area": "≈ 88 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "PVC Coated Architectural Mesh",
+    "артикул": "MS-49",
+    "описание/спецификации": {
+      "Wire Diameter": "2.0 mm (2.8 mm shell)",
+      "Composition": "Galvanized steel + PVC coating",
+      "Mesh Pitch": "25 × 25 mm",
+      "Weave Type": "Square (Plain weave)",
+      "PVC Jacket Color": "RAL 6009 (dark green)",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Round Hole Perforated Metal Sheet",
+    "артикул": "PF-45",
+    "описание/спецификации": {
+      "Sheet Thickness": "1.5 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Hole Diameter": "Ø 6.0 mm",
+      "Hole Pitch": "9.0 mm (staggered pitch)",
+      "Open Area": "≈ 40 %",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Slotted Hole Perforated Metal Sheet",
+    "артикул": "PF-46",
+    "описание/спецификации": {
+      "Sheet Thickness": "2.0 mm",
+      "Alloy / Composition": "S235JR (Galvanized steel)",
+      "Hole Size": "5 × 20 mm (slot)",
+      "Hole Pitch": "8 × 25 mm",
+      "Open Area": "≈ 50 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Hexagonal Honeycomb Perforated Sheet",
+    "артикул": "PF-47",
+    "описание/спецификации": {
+      "Sheet Thickness": "1.5 mm",
+      "Alloy / Composition": "AlMg1 (EN AW-5005)",
+      "Hole Size": "Ø (wrench) 8.0 mm",
+      "Hole Pitch": "10.0 mm (honeycomb pattern)",
+      "Open Area": "≈ 56 %",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Mirror Polished Stainless Steel Perforated Sheet",
+    "артикул": "PF-48",
+    "описание/спецификации": {
+      "Sheet Thickness": "1.2 mm",
+      "Alloy / Composition": "AISI 304 (EN 1.4301)",
+      "Hole Diameter": "Ø 4.0 mm",
+      "Hole Pitch": "6.0 mm (staggered pitch)",
+      "Surface Finish": "Mirror BA Finish",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Fine Round Hole Perforated Sheet",
+    "артикул": "PF-49",
+    "описание/спецификации": {
+      "Sheet Thickness": "1.0 mm",
+      "Alloy / Composition": "AISI 304 Stainless steel",
+      "Hole Diameter": "Ø 2.0 mm",
+      "Hole Pitch": "3.0 mm (staggered pitch)",
+      "Open Area": "≈ 35 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Standard Aluminum Composite Panel (ACM)",
+    "артикул": "CMP-45",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMn1 (EN AW-3003), 0.5 mm",
+      "Core Material": "Polyethylene FR (fire retardant)",
+      "Finish / Coating": "PVDF Kynar 500, White RAL 9010",
+      "Bending Radius (min)": "R = 200 mm",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "A2 Fire-Rated Aluminum Composite Panel",
+    "артикул": "CMP-46",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMg1 (EN AW-5005), 0.5 mm",
+      "Core Material": "Non-combustible Mineral",
+      "Finish / Coating": "PVDF Kynar 500, Anthracite RAL 7016",
+      "Building Class (max)": "Any (no restrictions)",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Wood Grain Finish Aluminum Composite Panel",
+    "артикул": "CMP-47",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMn1 (EN AW-3003), 0.5 mm",
+      "Core Material": "Polyethylene FR",
+      "Finish / Coating": "UV Digital Print, Oak Wood Imitation",
+      "UV Resistance": "≥ 10 years without fading",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Stone Texture Aluminum Composite Panel",
+    "артикул": "CMP-48",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMn1 (EN AW-3003), 0.5 mm",
+      "Core Material": "Polyethylene FR",
+      "Finish / Coating": "UV Digital Print, Marble Imitation",
+      "UV Resistance": "≥ 10 years without fading",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "Standard Exterior HPL Facade Panel",
+    "артикул": "HPR-45",
+    "описание/спецификации": {
+      "Thickness": "8.0 mm",
+      "Composition": "Kraft pulp + phenolic resin",
+      "Surface Finish": "HPL Compact, Matte, gray",
+      "Density": "≈ 1 380 kg/m³",
+      "Water Absorption": "≤ 1.5 % (EN 438-2)",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "Wood Grain Exterior HPL Panel",
+    "артикул": "HPR-46",
+    "описание/спецификации": {
+      "Thickness": "10.0 mm",
+      "Composition": "Kraft pulp + melamine resin",
+      "Surface Finish": "Wood texture (embossed), walnut",
+      "Density": "≈ 1.380 kg/m³",
+      "Water Absorption": "≤ 2.0 % (EN 438-2)",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "High-Gloss Solid Color Exterior HPL Panel",
+    "артикул": "HPR-47",
+    "описание/спецификации": {
+      "Thickness": "6.0 mm",
+      "Composition": "Kraft pulp + melamine resin",
+      "Surface Finish": "Mirror gloss, blue RAL 5010",
+      "Density": "≈ 1.380 kg/m³",
+      "Gloss Level (60°)": "≥ 85 GU (EN ISO 2813)",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "Terracotta Texture Exterior HPL Panel",
+    "артикул": "HPR-48",
+    "описание/спецификации": {
+      "Thickness": "8.0 mm",
+      "Composition": "Kraft pulp + phenolic resin",
+      "Surface Finish": "Terracotta, leather embossing",
+      "Density": "≈ 1.380 kg/m³",
+      "Water Absorption": "≤ 1.5 % (EN 438-2)",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Trapezoidal Corrugated Metal Sheet T-18",
+    "артикул": "DM-50",
+    "описание/спецификации": {
+      "Sheet Thickness": "0.65 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Trapezoid Pitch": "150 mm",
+      "Profile Height": "18.0 mm",
+      "Finish / Coating": "PVDF Alucoat, champagne RAL 1015",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Trapezoidal Corrugated Metal Sheet T-35",
+    "артикул": "DM-51",
+    "описание/спецификации": {
+      "Sheet Thickness": "1.2 mm",
+      "Alloy / Composition": "S350GD+Z275 (Galvanized steel)",
+      "Trapezoid Pitch": "200 mm",
+      "Profile Height": "35.0 mm",
+      "Finish / Coating": "Polyester RAL 6005 (dark green)",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Fine Ribbed Corrugated Metal Sheet",
+    "артикул": "DM-52",
+    "описание/спецификации": {
+      "Sheet Thickness": "0.8 mm",
+      "Alloy / Composition": "AlMg1 (EN AW-5005)",
+      "Rib Pitch": "8 mm",
+      "Rib Height": "2.0 mm",
+      "Finish / Coating": "Anodizing, natural silver",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Curved Profile Corrugated Metal Sheet",
+    "артикул": "DM-53",
+    "описание/спецификации": {
+      "Sheet Thickness": "1.0 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Profile Type": "Arched, R = 2 000 mm",
+      "Wave Height": "5.0 mm, pitch 20 mm",
+      "Finish / Coating": "PVDF, terracotta RAL 8004",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "01 — Corrugated Metals",
+    "наименование": "Titanium-Zinc Corrugated Facade Sheet",
+    "артикул": "DM-54",
+    "описание/спецификации": {
+      "Sheet Thickness": "0.7 mm",
+      "Alloy / Composition": "Zn-Ti-Cu (EN 988)",
+      "Wave Pitch": "16 mm",
+      "Wave Height": "4.0 mm",
+      "Surface Finish": "Natural patina Anthra-Zinc",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Micro-Mesh Decorative Expanded Metal",
+    "артикул": "XP-60",
+    "описание/спецификации": {
+      "Strand Thickness": "0.5 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Mesh SWM × LWM": "5 × 10 mm",
+      "Strand Width": "0.8 mm",
+      "Open Area": "≈ 60 %",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Flattened Stainless Steel Expanded Metal",
+    "артикул": "XP-61",
+    "описание/спецификации": {
+      "Strand Thickness": "1.5 mm",
+      "Alloy / Composition": "AISI 316L (EN 1.4404)",
+      "Mesh SWM × LWM": "12 × 24 mm",
+      "Strand Width": "2.0 mm",
+      "Open Area": "≈ 52 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Architectural Copper Expanded Metal",
+    "артикул": "XP-62",
+    "описание/спецификации": {
+      "Strand Thickness": "0.8 mm",
+      "Alloy / Composition": "Cu-DHP (Copper, EN 1173)",
+      "Mesh SWM × LWM": "8 × 16 mm",
+      "Strand Width": "1.5 mm",
+      "Open Area": "≈ 55 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "PVC Coated Expanded Metal Mesh",
+    "артикул": "XP-63",
+    "описание/спецификации": {
+      "Strand Thickness": "2.0 mm",
+      "Alloy / Composition": "S250GD+Z275 + PVC coating",
+      "Mesh SWM × LWM": "40 × 80 mm",
+      "Strand Width": "4.0 mm",
+      "Finish / Coating": "PVC RAL 6005, dark green",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "02 — Expanded Metals",
+    "наименование": "Heavy-Duty XL Expanded Metal Panel",
+    "артикул": "XP-64",
+    "описание/спецификации": {
+      "Strand Thickness": "3.0 mm",
+      "Alloy / Composition": "S355JR (structural steel)",
+      "Mesh SWM × LWM": "50 × 100 mm",
+      "Strand Width": "6.0 mm",
+      "Open Area": "≈ 74 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Balanced Stainless Steel Wire Mesh",
+    "артикул": "MS-54",
+    "описание/спецификации": {
+      "Wire Diameter": "0.8 mm (warp) / 0.5 mm (weft)",
+      "Composition": "AISI 316L Stainless steel",
+      "Mesh Pitch": "3 × 6 mm (rectangular)",
+      "Weave Type": "Dutch Weave (Dutch)",
+      "Open Area": "≈ 28 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Decorative Chainmail Architectural Mesh",
+    "артикул": "MS-55",
+    "описание/спецификации": {
+      "Ring Diameter": "8.0 mm (outer)",
+      "Composition": "AISI 304 Stainless steel",
+      "Wire Diameter": "1.2 mm",
+      "Weave Type": "4-in-1 chainmail",
+      "Open Area": "≈ 70 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Decorative Brass Wire Mesh",
+    "артикул": "MS-56",
+    "описание/спецификации": {
+      "Wire Diameter": "0.6 mm",
+      "Composition": "CuZn37 (Brass L63, EN 1758)",
+      "Mesh Pitch": "2 × 2 mm",
+      "Weave Type": "Square (Plain weave)",
+      "Open Area": "≈ 40 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Welded Galvanized Wire Mesh",
+    "артикул": "MS-57",
+    "описание/спецификации": {
+      "Wire Diameter": "3.0 mm",
+      "Composition": "St37-2G + Z200 zinc",
+      "Mesh Pitch": "50 × 50 mm",
+      "Connection Method": "Resistance spot welding",
+      "Open Area": "≈ 83 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "03 — Wire Mesh",
+    "наименование": "Colored Architectural Wire Mesh",
+    "артикул": "MS-58",
+    "описание/спецификации": {
+      "Wire Diameter": "1.0 mm",
+      "Composition": "AISI 304 + PVD coating",
+      "Mesh Pitch": "5 × 5 mm",
+      "Weave Type": "Square (Plain weave)",
+      "PVD Color": "Rose Gold / Champagne Gold",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Fine Round Hole Perforated Sheet",
+    "артикул": "PF-49",
+    "описание/спецификации": {
+      "Sheet Thickness": "1,0 mm",
+      "Alloy / Composition": "AISI 304 Stainless steel",
+      "Hole Diameter": "Ø 2,0 mm",
+      "Hole Pitch": "3,0 mm (staggered pitch)",
+      "Open Area": "≈ 35 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Square Hole Perforated Metal Sheet",
+    "артикул": "PF-50",
+    "описание/спецификации": {
+      "Sheet Thickness": "2.0 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Hole Size": "10 × 10 mm",
+      "Hole Pitch": "14 × 14 mm",
+      "Open Area": "≈ 51 %",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Large Round Hole Perforated Sheet",
+    "артикул": "PF-51",
+    "описание/спецификации": {
+      "Sheet Thickness": "3.0 mm",
+      "Alloy / Composition": "S275JR (Black steel)",
+      "Hole Diameter": "Ø 20.0 mm",
+      "Hole Pitch": "26.0 mm (staggered pitch)",
+      "Open Area": "≈ 47 %",
+      "Fire Rating": "A1 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Rhombus Hole Perforated Metal Sheet",
+    "артикул": "PF-52",
+    "описание/спецификации": {
+      "Sheet Thickness": "2.0 mm",
+      "Alloy / Composition": "AlMg3 (EN AW-5754)",
+      "Hole Size": "8 × 15 mm (45° rhombus)",
+      "Hole Pitch": "12 × 20 mm",
+      "Finish / Coating": "Anodizing, golden bronze",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "04 — Perforated Metals",
+    "наименование": "Acoustic Perforated Metal Panel",
+    "артикул": "PF-53",
+    "описание/спецификации": {
+      "Sheet Thickness": "1.0 mm",
+      "Alloy / Composition": "AlMg1 (EN AW-5005)",
+      "Hole Diameter": "Ø 1.5 mm",
+      "Hole Pitch": "2.5 mm (staggered pitch)",
+      "Open Area": "≈ 28% (acoustic efficiency)",
+      "Fire Rating": "A2-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Matte Solid Color Aluminum Composite Panel",
+    "артикул": "CMP-49",
+    "описание/спецификации": {
+      "Total Thickness": "3.0 mm",
+      "Skin Alloy": "AlMn1 (EN AW-3003), 0.3 mm",
+      "Core Material": "Polyethylene FR (fire retardant)",
+      "Finish / Coating": "Polyester, gray RAL 7040",
+      "Gloss Level (60°)": "≤ 10 GU (deep matte)",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Metallic Finish Aluminum Composite Panel",
+    "артикул": "CMP-50",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMg1 (EN AW-5005), 0.5 mm",
+      "Core Material": "Polyethylene FR",
+      "Finish / Coating": "PVDF Metallic, silver-gray",
+      "Gloss Level (60°)": "35–50 GU (semi-gloss)",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Concrete Effect Aluminum Composite Panel",
+    "артикул": "CMP-51",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMn1 (EN AW-3003), 0.5 mm",
+      "Core Material": "Polyethylene FR",
+      "Finish / Coating": "UV-digital printing, concrete imitation",
+      "UV Resistance": "≥ 10 years without fading",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Pearlescent Aluminum Composite Panel",
+    "артикул": "CMP-52",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMg1 (EN AW-5005), 0.5 mm",
+      "Core Material": "Polyethylene FR",
+      "Finish / Coating": "PVDF Pearl White, pearlescent",
+      "Color Shift": "White → cream (viewing angle dependent)",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "05 — Composite ACM",
+    "наименование": "Copper Effect Aluminum Composite Panel",
+    "артикул": "CMP-53",
+    "описание/спецификации": {
+      "Total Thickness": "4.0 mm",
+      "Skin Alloy": "AlMg1 (EN AW-5005), 0.5 mm",
+      "Core Material": "Polyethylene FR",
+      "Finish / Coating": "UV-digital printing, copper imitation",
+      "Effect": "Shiny copper with patina",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "Terracotta Texture Exterior HPL Panel",
+    "артикул": "HPR-48",
+    "описание/спецификации": {
+      "Thickness": "8,0 mm",
+      "Composition": "Kraft cellulose + phenolic resin",
+      "Surface Finish": "Terracotta leather-embossed finish",
+      "Density": "≈ 1,380 kg/m³",
+      "Water Absorption": "≤ 1,5 % (EN 438-2)",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "Thin 6mm Exterior HPL Panel",
+    "артикул": "HPR-49",
+    "описание/спецификации": {
+      "Thickness": "6.0 mm",
+      "Composition": "Kraft pulp + melamine resin",
+      "Surface Finish": "HPL Compact Uni, gray RAL 7035",
+      "Density": "≈ 1.380 kg/m³",
+      "Application": "Unloaded vertical planes",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "Matte Black Exterior HPL Panel",
+    "артикул": "HPR-50",
+    "описание/спецификации": {
+      "Thickness": "10.0 mm",
+      "Composition": "Kraft pulp + phenolic resin",
+      "Surface Finish": "Black matte compact, RAL 9005",
+      "Density": "≈ 1.380 kg/m³",
+      "Gloss Level (60°)": "≤ 5 GU (deep Matte)",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "Antibacterial Surface HPL Panel",
+    "артикул": "HPR-51",
+    "описание/спецификации": {
+      "Thickness": "8.0 mm",
+      "Composition": "Kraft pulp + melamine resin + Ag⁺",
+      "Surface Finish": "White matte, silver ions Ag⁺",
+      "Antibacterial Properties": "≥ 99.9% suppression (ISO 22196)",
+      "Application": "Medical facilities, food industry",
+      "Fire Rating": "B-s2,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "06 — Phenolic HPL",
+    "наименование": "B1 Fire-Retardant HPL Panel",
+    "артикул": "HPR-52",
+    "описание/спецификации": {
+      "Thickness": "12.0 mm",
+      "Composition": "Kraft pulp + phenolic resin (FR)",
+      "Surface Finish": "Gray RAL 7040, matte compact",
+      "Density": "≈ 1.380 kg/m³",
+      "Fire Hazard Class": "KM1 (DIN 30244), B1 (DIN 4102)",
+      "Fire Rating": "B-s1,d0 (EN 13501-1)"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Structural T-Section Aluminum Rail Profile",
+    "артикул": "MAT-45",
+    "описание/спецификации": {
+      "Material": "Aluminum EN AW-6063 T6",
+      "Cross-Section": "T 60 × 40 × 3.0 mm",
+      "Standard Length": "6 000 mm",
+      "Yield Strength": "≥ 195 MPa (EN 755-2)",
+      "Finish / Coating": "Anodizing 15 µm (silver)",
+      "Compatibility": "Sections 01–06 of all materials"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Structural L-Section Aluminum Rail Profile",
+    "артикул": "MAT-46",
+    "описание/спецификации": {
+      "Material": "Aluminum EN AW-6063 T6",
+      "Cross-Section": "L 60 × 40 × 3.0 mm",
+      "Standard Length": "6 000 mm",
+      "Yield Strength": "≥ 195 MPa (EN 755-2)",
+      "Finish / Coating": "Anodizing 15 µm (natural)",
+      "Application": "Corner transitions and opening frames"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Galvanized Steel T-Profile Bearing Rail",
+    "артикул": "MAT-47",
+    "описание/спецификации": {
+      "Material": "S350GD+Z275 (GOST ISO EN 10346)",
+      "Cross-Section": "T 80 × 50 × 2.5 mm",
+      "Standard Length": "6 000 mm",
+      "Yield Strength": "≥ 350 MPa",
+      "Protection": "Hot-dip galvanizing Z275 (275 g/m²)",
+      "Application": "Main bearing subsystem"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Adjustable Aluminum Subframe Wall Bracket",
+    "артикул": "MAT-48",
+    "описание/спецификации": {
+      "Material": "Aluminum EN AW-6061 T6",
+      "Adjustment Range": "±40 mm (30–70 mm from wall)",
+      "Max Load": "3.0 kN (per bracket)",
+      "Thermal Break": "Built-in thermal break insert",
+      "Finish / Coating": "Anodizing 20 µm",
+      "Compliance": "EN 1090-1:2009+A1:2011"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Reinforced Wall Bracket, 150mm Reach",
+    "артикул": "MAT-49",
+    "описание/спецификации": {
+      "Material": "S355J2 Galvanized steel Z275",
+      "Wall Standoff": "150 mm (fixed)",
+      "Max Load": "5.0 kN (per bracket)",
+      "Thermal Break": "EPDM Thermal Break Gasket",
+      "Fastening Bolt": "M10 × 60 A4 (included)",
+      "Compliance": "EN 1090-1:2009+A1:2011"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Corner Joint Subframe Bracket",
+    "артикул": "MAT-50",
+    "описание/спецификации": {
+      "Material": "Aluminum EN AW-6061 T6",
+      "Geometry": "90° / 135° (swivel)",
+      "Max Load": "2.5 kN (per corner)",
+      "Thermal Break": "Paronite gasket 3.0 mm",
+      "Finish / Coating": "Anodizing silver 20 µm",
+      "Application": "Corner nodes of facade systems"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Paronite Thermal Break Facade Gasket",
+    "артикул": "MAT-51",
+    "описание/спецификации": {
+      "Material": "Paronite PON (GOST 481)",
+      "Thickness": "3.0 mm",
+      "Size": "60 × 60 mm (under bracket)",
+      "Temperature Range": "−50 °C … +300 °C",
+      "Thermal Conductivity λ": "≤ 0.23 W/(m·K)",
+      "Application": "Breaking thermal bridges in nodes"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "EPDM Thermal Break Gasket",
+    "артикул": "MAT-52",
+    "описание/спецификации": {
+      "Material": "EPDM (Ethylene Propylene Diene Monomer rubber)",
+      "Thickness": "4.0 mm",
+      "Density": "1.40 g/cm³",
+      "Temperature Range": "−50 °C … +120 °C",
+      "Thermal Conductivity λ": "≤ 0.25 W/(m·K)",
+      "Standard": "ASTM D573, EPDM 60 Shore A"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Compressible Sealing Tape",
+    "артикул": "MAT-53",
+    "описание/спецификации": {
+      "Material": "PE-foam with acrylic adhesive",
+      "Size": "20 × 6 mm (roll 5 000 mm)",
+      "Compression Ratio": "30–85 % (adjustable gap)",
+      "Temperature Range": "−30 °C … +80 °C",
+      "Water Resistance": "IP 65 (DIN EN 60529)",
+      "Application": "Joints and gaps in facade panels"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Concealed Fastening Bracket Clamp",
+    "артикул": "MAT-54",
+    "описание/спецификации": {
+      "Material": "AISI 304 Stainless steel",
+      "Type": "Concealed (invisible from outside)",
+      "Panel Width": "from 200 to 600 mm",
+      "Max Load": "1.2 kN/clamp",
+      "Thickness": "1.5 mm (stamped)",
+      "Standard": "EN 1090-2:2018"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Visible Fastening Bracket Clamp",
+    "артикул": "MAT-55",
+    "описание/спецификации": {
+      "Material": "AISI 304 Stainless steel",
+      "Type": "Visible (with decorative head)",
+      "Panel Width": "from 150 to 800 mm",
+      "Max Load": "1.5 kN/clamp",
+      "Thickness": "2.0 mm (stamped)",
+      "Standard": "EN 1090-2:2018"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Starter Edge Fastening Clamp",
+    "артикул": "MAT-56",
+    "описание/спецификации": {
+      "Material": "AISI 304 Stainless steel",
+      "Type": "Edge / starter (one-sided retention)",
+      "Panel Width": "from 150 to 600 mm",
+      "Max Load": "1.0 kN/clamp",
+      "Thickness": "1.5 mm (stamped)",
+      "Application": "Bottom and top cladding rows"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Stainless Steel Facade Dowel",
+    "артикул": "MAT-57",
+    "описание/спецификации": {
+      "Material": "AISI 304 Stainless steel",
+      "Size": "M8 × 80 mm",
+      "Expansion Mechanism": "Mechanical (impact)",
+      "Max Load": "Frc = 8.5 kN (concrete C20/25)",
+      "Standard": "ETA-05/0005",
+      "Application": "Fastening crown rails to concrete / brick"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Plate Anchor Insulation Dowel",
+    "артикул": "MAT-58",
+    "описание/спецификации": {
+      "Material": "Polyamide PA 6.6 GF30 + rod A4",
+      "Size": "Ø 60 × 160 mm (plate Ø 60 mm)",
+      "Pull-out Resistance": "≥ 1.0 kN (concrete C12/15)",
+      "Thermal Conductivity": "A4 min rod thermal conductivity",
+      "ETA": "ETA-10/0309",
+      "Application": "Attaching insulation to the wrap"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Injection Chemical Anchor",
+    "артикул": "MAT-59",
+    "описание/спецификации": {
+      "Composition": "2K epoxy-acrylate resin",
+      "Cartridge Volume": "300 ml (≈ 15–25 anchors)",
+      "Cure Time": "20°C: 30 min; 0°C: 120 min",
+      "Max Load": "up to 35 kN (M16, concrete C20/25)",
+      "Standard": "ETA-17/0120, ETAG 001",
+      "Application": "Weak and hollow warps"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "A2 Stainless Steel Structural Blind Rivets",
+    "артикул": "MAT-60",
+    "описание/спецификации": {
+      "Material": "Body / rod: AISI 304/304 A2",
+      "Diameter × Length": "Ø 4.8 × 12 mm (standard)",
+      "Tensile Breaking Load": "≥ 3 200 N (EN ISO 15977)",
+      "Flange Diameter": "9.5 mm",
+      "Grip Range": "0.5–6.5 mm",
+      "Packaging": "500 pcs / box"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "A4 Stainless Steel Structural Blind Rivets",
+    "артикул": "MAT-61",
+    "описание/спецификации": {
+      "Material": "Body / rod: AISI 316/316 A4",
+      "Diameter × Length": "Ø 4.8 × 16 mm (heavy-duty)",
+      "Tensile Breaking Load": "≥ 3 500 N (EN ISO 15977)",
+      "Flange Diameter": "12.0 mm (Wide-Flange)",
+      "Grip Range": "0.5–9.5 mm",
+      "Application": "Marine and aggressive environments"
+    }
+  },
+  {
+    "раздел": "07 — Fixings & Subsystems",
+    "наименование": "Facade Subsystem Connection Splice",
+    "артикул": "MAT-62",
+    "описание/спецификации": {
+      "Material": "Aluminum EN AW-6063 T6",
+      "Cross-Section": "U 40 × 20 × 2.0 mm",
+      "Standard Length": "3 000 mm",
+      "Max Load": "0.8 kN/m linear meter",
+      "Finish / Coating": "Anodizing 15 µm (natural)",
+      "Application": "Profile joining and lateral rigidity"
+    }
+  }
+]
